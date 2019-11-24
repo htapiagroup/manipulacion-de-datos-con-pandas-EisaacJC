@@ -1,6 +1,23 @@
 ![header image](https://www.uv.mx/ffia/files/2012/09/playerLogo2.jpg)
 
-# Taller de python. Introducción a la ciencia de Datos
+# Taller de python. Introducción a la ciencia de Datos- Parte 1 y 2
+#Parte 2
+
+##Índice de acceso directo:
+[2.01 Objetos de Pandas] (https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.01-Introducing-Pandas-Objects.ipynb)
+[2.02 Indeado de los datos y selección de los mismos](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.02-Data-Indexing-and-Selection.ipynb)
+[2.03 Operaciones en Pandas](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.03-Operations-in-Pandas.ipynb)
+[2.04 Tratamiento de valores faltantes](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.04-Missing-Values.ipynb)
+[2.05 Concatenación y unión](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.05-Concat-And-Append.ipynb)
+[2.06 Unión y mezclado en Pndas](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.06-Merge-and-Join.ipynb)
+[2.07 Agrupación de datos](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.07-Aggregation-and-Grouping.ipynb)
+
+
+
+
+
+
+
 
 El material está basado en el libro [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) de Jake VanderPlas; el contenido original está disponible [en GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).
 
