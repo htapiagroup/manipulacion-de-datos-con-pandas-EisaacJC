@@ -2,8 +2,6 @@
 
 # Taller de python. Introducción a la ciencia de Datos
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/Index.ipynb)
-
 El material está basado en el libro [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) de Jake VanderPlas; el contenido original está disponible [en GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).
 
 ## Introducción a la ciencia de datos Facultad de Física
