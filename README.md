@@ -1,6 +1,6 @@
 ![header image](https://www.uv.mx/ffia/files/2012/09/playerLogo2.jpg)
 
-# Taller de Python Data Challenge Industrial
+# Taller de python. Introducción a la ciencia de Datos
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/Index.ipynb)
 
