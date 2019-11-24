@@ -1,4 +1,4 @@
-![header image](notebooks/figures/header.png)
+![header image](https://www.uv.mx/ffia/files/2012/09/playerLogo2.jpg)
 
 # Taller de Python Data Challenge Industrial
 
