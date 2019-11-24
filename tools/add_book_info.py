@@ -10,14 +10,13 @@ BOOK_COMMENT = "<!--BOOK_INFORMATION-->"
 
 
 BOOK_INFO = BOOK_COMMENT + """
-<img align="left" style="padding-right:10px;" src="figures/header_small.png">
+<img align="left" style="padding-right:10px;" src="https://www.uv.mx/ffia/files/2012/09/playerLogo2.jpg">
 
-*Esta libreta contiene material del Taller de Python que se lleva a cabo como parte del 
-evento [Data Challenge Industrial 4.0](www.lania.mx/dci). El contenido ha sido adaptado 
+ El contenido ha sido adaptado 
 por HTM y GED a partir del libro [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) 
 de Jake VanderPlas y se mantiene la licencia sobre el texto, 
 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode), 
-y sobre el codigo [MIT license](https://opensource.org/licenses/MIT).*"""
+y sobre el codigo [MIT license](https://opensource.org/licenses/MIT).**"""
 
 
 def add_book_info():
