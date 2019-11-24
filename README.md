@@ -4,6 +4,7 @@
 #Parte 2
 
 ##Índice de acceso directo:
+
 [2.01 Objetos de Pandas](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.01-Introducing-Pandas-Objects.ipynb)
 
 [2.02 Indeado de los datos y selección de los mismos](https://colab.research.google.com/github/htapiagroup/manipulacion-de-datos-con-pandas-EisaacJC/blob/master/notebooks/02.02-Data-Indexing-and-Selection.ipynb)
